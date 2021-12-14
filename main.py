@@ -1,2 +1,2 @@
 def wordSmash():
-  return "Word Smash"
+  return "Bat Rat"
